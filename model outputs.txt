@@ -1,0 +1,12 @@
+model outputs
+
+###decision tree###
+mean 4.27902779947804
+sd 0.6509128626081658
+
+###linear regression###
+mean 5.034407907256163
+sd 1.0602798967417784
+###random forerst regressor###
+mean 3.3308409734660946
+sd 0.6342669534186298
